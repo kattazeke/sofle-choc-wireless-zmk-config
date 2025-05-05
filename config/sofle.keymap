@@ -21,7 +21,6 @@
             tapping-term-ms = <280>;
             quick-tap-ms = <175>;
             flavor = "balanced";
-            hold-trigger-key-positions = <KEYS_R THUMBS>;
             hold-trigger-on-release;
             require-prior-idle-ms = <150>;
         };
@@ -35,7 +34,6 @@
             tapping-term-ms = <280>;
             quick-tap-ms = <175>;
             flavor = "balanced";
-            hold-trigger-key-positions = <KEYS_L THUMBS>;
             hold-trigger-on-release;
             require-prior-idle-ms = <150>;
         };
