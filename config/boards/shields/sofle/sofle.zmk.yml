@@ -10,7 +10,6 @@ features:
   - display
   - encoder
   - underglow
-  - studio
 siblings:
   - sofle_left
   - sofle_right
